@@ -1,4 +1,4 @@
-# QuestionAnswering_Chatbot
+# 🚀QuestionAnswering_Chatbot
 
 ## 🌟 Project Overview
 I’m thrilled to introduce my *Question-Answering Chatbot, an advanced AI system built using the latest tools from the **LLM ecosystem. This chatbot is designed to efficiently answer questions from documents using **Retrieval-Augmented Generation (RAG)*.
@@ -23,7 +23,7 @@ The chatbot utilizes *sentence-transformers/all-MiniLM-L6-v2* for embedding gene
 This project wouldn’t have been possible without the inspiration and guidance from:
 - *Prof. Sujit Chaudhari* - Inspiring my deep dive into LLMs
 - *Priyanka Lanjewar Ma’am* - Guiding my journey into Deep Learning
-- *Vijaya A.* - Expert session that introduced me to RAG
+
 
 ## 🚀 Future Plans
 - Fine-tuning the embeddings model for better accuracy
