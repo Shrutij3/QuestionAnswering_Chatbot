@@ -1,5 +1,10 @@
 # 🚀QuestionAnswering_Chatbot
 
+##  Project Output
+
+Uploading Recording 2024-11-10 205000 (1).mp4…
+
+
 ## 🌟 Project Overview
 I’m thrilled to introduce my *Question-Answering Chatbot, an advanced AI system built using the latest tools from the **LLM ecosystem. This chatbot is designed to efficiently answer questions from documents using **Retrieval-Augmented Generation (RAG)*.
 
